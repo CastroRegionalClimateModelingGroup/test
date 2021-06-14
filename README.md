@@ -11,3 +11,4 @@ Bayu
 
 HSINI IS HERE 06/14
 HSINI -- AGAIN
+HSINI-Fixed email setting
