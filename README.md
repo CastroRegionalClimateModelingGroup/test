@@ -15,4 +15,7 @@ HSINI-Fixed email setting, git config --global user.mail
 
 Lourdes :D
 
-Andrew - Working now, thanks.
+Andrew - Working now, thanks
+
+The last poor student --CLC
+.
